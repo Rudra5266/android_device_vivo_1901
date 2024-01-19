@@ -105,7 +105,6 @@ TW_USE_TOOLBOX := true
 
 #decryption
 TW_INCLUDE_CRYPTO := true
-TW_INCLUDE_FBE_METADATA_DECRYPT := true
 
 #logs
 TWRP_EVENT_LOGGING := true
